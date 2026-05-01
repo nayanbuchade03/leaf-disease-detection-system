@@ -29,7 +29,7 @@ The core model is integrated into a lightweight **Flask web application**, allow
 
 ### Screenshots
 
-![Web App Interface](assets/screenshot.png)
+![Web App Interface](assets/Screenshot.png)
 
 ---
 
